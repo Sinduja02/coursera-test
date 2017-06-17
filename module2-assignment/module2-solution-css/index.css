@@ -1,0 +1,30 @@
+
+ #testing
+{	
+	border: 5px solid black;
+	margin-right: : 500px;
+	width: 300px;
+	position: relative;
+	top:40px;
+	left:10px;
+ }
+
+#testing1
+{
+	border: 5px solid black;
+	margin-right: : 500px;
+	width: 300px;
+	position: relative;
+	top: -200px;
+	left: 400px;
+}
+
+#testing2
+{
+	border: 5px solid black;
+	margin-right: : 500px;
+	width: 300px;
+	position: relative;
+	top: -440px;
+	left: 800px;
+}
